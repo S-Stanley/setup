@@ -26,3 +26,4 @@
 ## Others
 
 * [Add vim as default editor](https://unix.stackexchange.com/a/73486)
+* [Add docker to user group](https://docs.docker.com/engine/install/linux-postinstall/)
